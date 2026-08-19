@@ -1,0 +1,119 @@
+[
+  {
+    "sanskrit": "राम",
+    "sanskrit_variants": [
+      "राम",
+      "रामे",
+      "रामपादाव",
+      "रामपादौ"
+    ],
+    "tibetan": "རཱ་མ",
+    "tibetan_variants": [
+      "རཱ་མ",
+      "རཱ་མའི"
+    ],
+    "chinese": "罗摩",
+    "chinese_variants": [
+      "罗摩"
+    ],
+    "category": "person_name",
+    "frequency": 3933,
+    "is_valid": true
+  },
+  {
+    "sanskrit": "धर्म",
+    "sanskrit_variants": [
+      "धर्म",
+      "धर्मे",
+      "धर्मपथे"
+    ],
+    "tibetan": "ཆོས",
+    "tibetan_variants": [
+      "ཆོས"
+    ],
+    "chinese": "达磨",
+    "chinese_variants": [
+      "达磨",
+      "法"
+    ],
+    "category": "term",
+    "frequency": 692,
+    "is_valid": true
+  },
+  {
+    "sanskrit": "अग्नि",
+    "sanskrit_variants": [
+      "अग्नि",
+      "हुताग्नयः"
+    ],
+    "tibetan": "མེ",
+    "tibetan_variants": [
+      "མེ",
+      "སྦྱིན་སྲེག"
+    ],
+    "chinese": "祭火",
+    "chinese_variants": [
+      "祭火",
+      "火"
+    ],
+    "category": "term",
+    "frequency": 652,
+    "is_valid": true
+  },
+  {
+    "sanskrit": "भरत",
+    "sanskrit_variants": [
+      "भरत",
+      "भरतॊ",
+      "भरतौ"
+    ],
+    "tibetan": "བྷ་ར་ཏ",
+    "tibetan_variants": [
+      "བྷ་ར་ཏ"
+    ],
+    "chinese": "婆罗多",
+    "chinese_variants": [
+      "婆罗多"
+    ],
+    "category": "person_name",
+    "frequency": 457,
+    "is_valid": true
+  },
+  {
+    "sanskrit": "तापस",
+    "sanskrit_variants": [
+      "तापस",
+      "तापसरूपेण"
+    ],
+    "tibetan": "དཀའ་ཐུབ",
+    "tibetan_variants": [
+      "དཀའ་ཐུབ"
+    ],
+    "chinese": "苦行者",
+    "chinese_variants": [
+      "苦行者",
+      "苦行"
+    ],
+    "category": "term",
+    "frequency": 415,
+    "is_valid": true
+  },
+  {
+    "sanskrit": "अयॊध्या",
+    "sanskrit_variants": [
+      "अयॊध्या",
+      "अयॊध्यां"
+    ],
+    "tibetan": "འཐབ་བྲལ་གྲོང་ཁྱེར",
+    "tibetan_variants": [
+      "འཐབ་བྲལ་གྲོང་ཁྱེར"
+    ],
+    "chinese": "阿逾陀",
+    "chinese_variants": [
+      "阿逾陀"
+    ],
+    "category": "place_name",
+    "frequency": 121,
+    "is_valid": true
+  }
+]

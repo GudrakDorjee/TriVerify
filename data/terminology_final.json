@@ -1,0 +1,47 @@
+{
+  "भरत": {
+    "tibetan": "བྷ་ར་ཏ",
+    "chinese": "婆罗多",
+    "category": "person_name"
+  },
+  "राम": {
+    "tibetan": "རཱ་མ",
+    "chinese": "罗摩",
+    "category": "person_name"
+  },
+  "सौमित्रि": {
+    "tibetan": "ལ་ཀྵ་མ་ན",
+    "chinese": "罗什曼那",
+    "category": "person_name"
+  },
+  "अयॊध्या": {
+    "tibetan": "འཐབ་བྲལ་གྲོང་ཁྱེར",
+    "chinese": "阿逾陀",
+    "category": "place_name"
+  },
+  "धर्म": {
+    "tibetan": "ཆོས",
+    "chinese": "达磨",
+    "category": "term"
+  },
+  "काल": {
+    "tibetan": "འཆི་བདག",
+    "chinese": "死神",
+    "category": "term"
+  },
+  "तापस": {
+    "tibetan": "དཀའ་ཐུབ་སྤྱོད་པ",
+    "chinese": "苦行者",
+    "category": "term"
+  },
+  "अग्नि": {
+    "tibetan": "མེ",
+    "chinese": "祭火",
+    "category": "term"
+  },
+  "महाध्वर": {
+    "tibetan": "སྦྱིན་སྲེག་ཆེན་པོ",
+    "chinese": "大祭典",
+    "category": "term"
+  }
+}
